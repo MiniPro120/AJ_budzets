@@ -36,6 +36,7 @@ namespace AJ_budzets
 
         private void budzeta_aprekins(int alga, int papildus, int ire, int partika, int komunalie)
         {
+
             int ienakumi = alga + papildus;
 
             int izdevumi = ire + partika + komunalie;
@@ -43,7 +44,6 @@ namespace AJ_budzets
             int budzets = ienakumi - izdevumi;
 
             txt_budzets.Text = budzets.ToString();
-
 
         }
     }
