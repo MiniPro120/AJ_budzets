@@ -36,6 +36,9 @@ namespace AJ_budzets
 
         private void budzeta_aprekins(int alga, int papildus, int ire, int partika, int komunalie)
         {
+            string message = "Dirsa ir vecuk... bankrots";
+            string title = "Bedigs pasākums";
+            
 
             int ienakumi = alga + papildus;
 
@@ -45,6 +48,10 @@ namespace AJ_budzets
 
             txt_budzets.Text = budzets.ToString();
 
+            if(budzets < 0)
+            {
+                MessageBox.Show(message, title);
+            }
         }
     }
 }
