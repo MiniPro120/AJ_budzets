@@ -1,0 +1,10 @@
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\bin\Debug\AJ_budzets.exe.config
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\bin\Debug\AJ_budzets.exe
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\bin\Debug\AJ_budzets.pdb
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.csprojAssemblyReference.cache
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.Form1.resources
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.Properties.Resources.resources
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.csproj.GenerateResource.cache
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.csproj.CoreCompileInputs.cache
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.exe
+Z:\10.klase_C#\AJ_budzets\AJ_budzets\obj\Debug\AJ_budzets.pdb
